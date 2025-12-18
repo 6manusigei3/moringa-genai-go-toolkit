@@ -218,9 +218,9 @@ Through this project, I gained:
 
 AI was used responsibly as:
 
-* A learning assistant
-* A guide for understanding concepts
-* A support tool, not a replacement for learning
+* A learning assistant.
+* A guide for understanding concepts.
+* A support tool, not a replacement for learning.
 
 All code was reviewed and understood before implementation.
 
